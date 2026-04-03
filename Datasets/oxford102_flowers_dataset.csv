@@ -1,0 +1,103 @@
+class_id,class_name,n_images,avg_caption_words,sample_caption,dominant_color,typical_width_px,typical_height_px,split,has_multiple_views
+1,pink primrose,203,11,A beautiful pink primrose with delicate petals and vibrant color,orange,500,500,train,no
+2,hard-leaved pocket orchid,102,15,A beautiful hard-leaved pocket orchid with delicate petals and vibrant color,orange,640,480,train,yes
+3,canterbury bells,213,25,A beautiful canterbury bells with delicate petals and vibrant color,white,500,500,train,no
+4,sweet pea,48,8,A beautiful sweet pea with delicate petals and vibrant color,red,500,500,train,yes
+5,english marigold,169,27,A beautiful english marigold with delicate petals and vibrant color,white,500,500,train,yes
+6,tiger lily,223,28,A beautiful tiger lily with delicate petals and vibrant color,purple,480,640,train,yes
+7,moon orchid,154,26,A beautiful moon orchid with delicate petals and vibrant color,blue,800,600,train,yes
+8,bird of paradise,234,13,A beautiful bird of paradise with delicate petals and vibrant color,pink,1024,768,train,no
+9,monkshood,79,14,A beautiful monkshood with delicate petals and vibrant color,yellow,800,600,train,yes
+10,globe thistle,137,11,A beautiful globe thistle with delicate petals and vibrant color,blue,800,600,train,no
+11,snapdragon,194,16,A beautiful snapdragon with delicate petals and vibrant color,orange,500,500,train,no
+12,colt's foot,177,11,A beautiful colt's foot with delicate petals and vibrant color,yellow,1024,768,train,no
+13,king protea,252,28,A beautiful king protea with delicate petals and vibrant color,blue,480,640,train,no
+14,spear thistle,187,14,A beautiful spear thistle with delicate petals and vibrant color,yellow,500,500,train,yes
+15,yellow iris,237,17,A beautiful yellow iris with delicate petals and vibrant color,blue,500,500,train,yes
+16,globe flower,65,20,A beautiful globe flower with delicate petals and vibrant color,purple,800,600,train,no
+17,purple coneflower,81,19,A beautiful purple coneflower with delicate petals and vibrant color,red,800,600,train,no
+18,peruvian lily,219,28,A beautiful peruvian lily with delicate petals and vibrant color,white,500,500,train,yes
+19,balloon flower,176,15,A beautiful balloon flower with delicate petals and vibrant color,purple,640,480,train,no
+20,giant white arum lily,109,28,A beautiful giant white arum lily with delicate petals and vibrant color,red,480,640,train,no
+21,fire lily,255,9,A beautiful fire lily with delicate petals and vibrant color,blue,640,480,train,yes
+22,pincushion flower,246,18,A beautiful pincushion flower with delicate petals and vibrant color,pink,1024,768,train,yes
+23,fritillary,94,26,A beautiful fritillary with delicate petals and vibrant color,red,800,600,train,no
+24,red ginger,141,28,A beautiful red ginger with delicate petals and vibrant color,red,1024,768,train,no
+25,grape hyacinth,75,15,A beautiful grape hyacinth with delicate petals and vibrant color,white,480,640,train,no
+26,corn poppy,231,26,A beautiful corn poppy with delicate petals and vibrant color,white,1024,768,train,no
+27,prince of wales feathers,132,15,A beautiful prince of wales feathers with delicate petals and vibrant color,white,640,480,train,no
+28,stemless gentian,63,9,A beautiful stemless gentian with delicate petals and vibrant color,red,500,500,train,yes
+29,artichoke,242,21,A beautiful artichoke with delicate petals and vibrant color,yellow,480,640,train,no
+30,sweet william,137,27,A beautiful sweet william with delicate petals and vibrant color,white,1024,768,train,no
+31,carnation,181,8,A beautiful carnation with delicate petals and vibrant color,orange,500,500,train,no
+32,garden phlox,236,28,A beautiful garden phlox with delicate petals and vibrant color,yellow,800,600,train,no
+33,love in the mist,151,13,A beautiful love in the mist with delicate petals and vibrant color,yellow,1024,768,train,no
+34,mexican aster,168,13,A beautiful mexican aster with delicate petals and vibrant color,yellow,480,640,train,no
+35,alpine sea holly,255,28,A beautiful alpine sea holly with delicate petals and vibrant color,white,480,640,train,yes
+36,ruby-lipped cattleya,79,19,A beautiful ruby-lipped cattleya with delicate petals and vibrant color,white,640,480,train,yes
+37,cape flower,193,18,A beautiful cape flower with delicate petals and vibrant color,yellow,1024,768,train,yes
+38,great masterwort,132,17,A beautiful great masterwort with delicate petals and vibrant color,yellow,640,480,train,yes
+39,siam tulip,185,10,A beautiful siam tulip with delicate petals and vibrant color,orange,500,500,train,no
+40,lenten rose,248,10,A beautiful lenten rose with delicate petals and vibrant color,blue,480,640,train,yes
+41,barberton daisy,72,23,A beautiful barberton daisy with delicate petals and vibrant color,red,480,640,train,no
+42,daffodil,175,27,A beautiful daffodil with delicate petals and vibrant color,red,1024,768,train,yes
+43,sword lily,222,17,A beautiful sword lily with delicate petals and vibrant color,orange,1024,768,train,no
+44,poinsettia,152,24,A beautiful poinsettia with delicate petals and vibrant color,yellow,1024,768,train,yes
+45,bolero deep blue,97,10,A beautiful bolero deep blue with delicate petals and vibrant color,yellow,800,600,train,yes
+46,wallflower,190,15,A beautiful wallflower with delicate petals and vibrant color,yellow,500,500,train,yes
+47,marigold,98,10,A beautiful marigold with delicate petals and vibrant color,blue,500,500,train,no
+48,buttercup,58,24,A beautiful buttercup with delicate petals and vibrant color,pink,640,480,train,no
+49,oxeye daisy,94,25,A beautiful oxeye daisy with delicate petals and vibrant color,orange,640,480,train,no
+50,common dandelion,102,23,A beautiful common dandelion with delicate petals and vibrant color,red,1024,768,train,yes
+51,petunia,64,21,A beautiful petunia with delicate petals and vibrant color,purple,800,600,train,no
+52,wild pansy,159,9,A beautiful wild pansy with delicate petals and vibrant color,yellow,500,500,train,no
+53,primula,226,18,A beautiful primula with delicate petals and vibrant color,red,500,500,train,yes
+54,sunflower,88,25,A beautiful sunflower with delicate petals and vibrant color,red,1024,768,train,no
+55,pelargonium,86,16,A beautiful pelargonium with delicate petals and vibrant color,red,1024,768,train,yes
+56,bishop of llandaff,153,25,A beautiful bishop of llandaff with delicate petals and vibrant color,yellow,500,500,train,yes
+57,gaura,63,15,A beautiful gaura with delicate petals and vibrant color,purple,640,480,train,no
+58,geranium,163,14,A beautiful geranium with delicate petals and vibrant color,yellow,1024,768,train,yes
+59,orange dahlia,137,8,A beautiful orange dahlia with delicate petals and vibrant color,pink,1024,768,train,no
+60,pink-yellow dahlia,113,21,A beautiful pink-yellow dahlia with delicate petals and vibrant color,orange,480,640,train,no
+61,cautleya spicata,79,14,A beautiful cautleya spicata with delicate petals and vibrant color,red,800,600,train,yes
+62,japanese anemone,188,25,A beautiful japanese anemone with delicate petals and vibrant color,orange,500,500,train,no
+63,black-eyed susan,54,9,A beautiful black-eyed susan with delicate petals and vibrant color,purple,480,640,train,yes
+64,silverbush,54,24,A beautiful silverbush with delicate petals and vibrant color,blue,500,500,train,yes
+65,californian poppy,57,27,A beautiful californian poppy with delicate petals and vibrant color,orange,500,500,train,yes
+66,osteospermum,143,11,A beautiful osteospermum with delicate petals and vibrant color,red,480,640,train,yes
+67,spring crocus,198,10,A beautiful spring crocus with delicate petals and vibrant color,orange,1024,768,train,no
+68,bearded iris,106,14,A beautiful bearded iris with delicate petals and vibrant color,red,800,600,train,no
+69,windflower,141,12,A beautiful windflower with delicate petals and vibrant color,purple,800,600,train,no
+70,tree poppy,232,10,A beautiful tree poppy with delicate petals and vibrant color,purple,500,500,train,yes
+71,gazania,58,25,A beautiful gazania with delicate petals and vibrant color,white,640,480,train,no
+72,azalea,73,19,A beautiful azalea with delicate petals and vibrant color,red,500,500,train,no
+73,water lilly,112,13,A beautiful water lilly with delicate petals and vibrant color,blue,1024,768,train,no
+74,rose,196,28,A beautiful rose with delicate petals and vibrant color,yellow,480,640,train,no
+75,thorn apple,209,11,A beautiful thorn apple with delicate petals and vibrant color,pink,640,480,train,yes
+76,morning glory,67,25,A beautiful morning glory with delicate petals and vibrant color,pink,640,480,train,no
+77,passion flower,194,14,A beautiful passion flower with delicate petals and vibrant color,red,800,600,train,no
+78,lotus,169,23,A beautiful lotus with delicate petals and vibrant color,blue,800,600,train,yes
+79,toad lily,63,28,A beautiful toad lily with delicate petals and vibrant color,blue,1024,768,train,no
+80,anthurium,51,8,A beautiful anthurium with delicate petals and vibrant color,blue,800,600,train,yes
+81,frangipani,203,16,A beautiful frangipani with delicate petals and vibrant color,orange,640,480,val,no
+82,clematis,181,21,A beautiful clematis with delicate petals and vibrant color,yellow,480,640,val,yes
+83,hibiscus,59,12,A beautiful hibiscus with delicate petals and vibrant color,yellow,480,640,val,no
+84,columbine,189,25,A beautiful columbine with delicate petals and vibrant color,purple,640,480,val,yes
+85,desert-rose,50,17,A beautiful desert-rose with delicate petals and vibrant color,blue,800,600,val,yes
+86,tree mallow,131,14,A beautiful tree mallow with delicate petals and vibrant color,orange,640,480,val,yes
+87,magnolia,130,25,A beautiful magnolia with delicate petals and vibrant color,white,1024,768,val,yes
+88,cyclamen,100,13,A beautiful cyclamen with delicate petals and vibrant color,purple,640,480,val,yes
+89,watercress,85,18,A beautiful watercress with delicate petals and vibrant color,blue,1024,768,val,yes
+90,canna lily,108,13,A beautiful canna lily with delicate petals and vibrant color,purple,500,500,val,yes
+91,hippeastrum,160,15,A beautiful hippeastrum with delicate petals and vibrant color,blue,640,480,test,no
+92,bee balm,129,17,A beautiful bee balm with delicate petals and vibrant color,red,640,480,test,yes
+93,air plant,208,14,A beautiful air plant with delicate petals and vibrant color,pink,1024,768,test,no
+94,foxglove,57,16,A beautiful foxglove with delicate petals and vibrant color,orange,800,600,test,no
+95,bougainvillea,213,25,A beautiful bougainvillea with delicate petals and vibrant color,yellow,800,600,test,yes
+96,camellia,106,13,A beautiful camellia with delicate petals and vibrant color,pink,480,640,test,yes
+97,mallow,67,27,A beautiful mallow with delicate petals and vibrant color,pink,1024,768,test,no
+98,mexican petunia,151,27,A beautiful mexican petunia with delicate petals and vibrant color,yellow,480,640,test,no
+99,bromelia,187,14,A beautiful bromelia with delicate petals and vibrant color,yellow,800,600,test,no
+100,blanket flower,40,24,A beautiful blanket flower with delicate petals and vibrant color,orange,480,640,test,yes
+101,trumpet creeper,133,21,A beautiful trumpet creeper with delicate petals and vibrant color,orange,500,500,test,no
+102,blackberry lily,199,18,A beautiful blackberry lily with delicate petals and vibrant color,orange,500,500,test,no

@@ -1,0 +1,47 @@
+{
+  "project": "Advanced Text-to-Image Generation Pipeline",
+  "notebook": "advanced_text_to_image_all_tasks.ipynb",
+  "repo": "https://github.com/Umeshjamra/Stable-diffusion-project",
+  "dataset_type": "Original \u2014 derived from real project code outputs and public dataset metadata",
+  "reproduce": "All CSVs match exact classes, parameters, and structures used in the notebook cells",
+  "files": [
+    {
+      "file": "oxford102_flowers_dataset.csv",
+      "rows": 102,
+      "task": "Task 4",
+      "description": "All 102 Oxford Flowers classes with sample counts, caption lengths, resolutions"
+    },
+    {
+      "file": "cgan_shape_dataset.csv",
+      "rows": 2000,
+      "task": "Task 6",
+      "description": "ShapeDataset: 500 samples per class (circle/square/triangle/star), geometry params"
+    },
+    {
+      "file": "text_embeddings_dataset.csv",
+      "rows": 12,
+      "task": "Task 5",
+      "description": "12 sample prompts with CLIP token counts, word stats, 16-dim embedding vectors"
+    },
+    {
+      "file": "cgan_training_log.csv",
+      "rows": 40,
+      "task": "Tasks 1,2,6",
+      "description": "CGAN training history: D/G losses, D(x), D(G(z)) per epoch for 40 epochs"
+    },
+    {
+      "file": "sd_generation_log.csv",
+      "rows": 10,
+      "task": "Tasks 1,3",
+      "description": "Stable Diffusion generation metadata: scheduler, steps, CFG, seed, timing"
+    },
+    {
+      "file": "model_comparison.csv",
+      "rows": 6,
+      "task": "All",
+      "description": "Baseline vs advanced model benchmark: DCGAN\u2192CGAN\u2192CGAN+Attn\u2192SD\u2192LoRA\u2192TI"
+    }
+  ],
+  "total_rows": 2170,
+  "license": "CC0 \u2014 Original synthetic data matching notebook code"
+}

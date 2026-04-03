@@ -1,0 +1,7 @@
+model_name,task,architecture,attention,output_size,inference_ms,vram_gb,text_alignment,quality_score,speed_score,conditional,uses_clip
+DCGAN (Baseline),T1,GAN,None,32x32,1,0.05,3,4,10,False,False
+CGAN (Task 6),T6,Conditional GAN,SelfAttention,32x32,1,0.08,8,5,10,True,False
+CGAN + Self-Attn (Task 2+6),T2+T6,CGAN+SelfAttn,Self+Cross,32x32,2,0.1,9,6,9,True,True
+SD 1.5 (Training Project),T1,LDM,CrossAttention(CLIP),512x512,12000,4.5,9,9,2,True,True
+SD 1.5 + LoRA (Task 3),T3,LDM+LoRA,CrossAttention(CLIP),512x512,13000,4.8,9,10,2,True,True
+SD 1.5 + Textual Inv. (Task 3),T3,LDM+TI,CrossAttention(CLIP),512x512,12500,4.5,10,9,2,True,True

@@ -1,0 +1,11 @@
+generation_id,prompt,negative_prompt,model,scheduler,steps,guidance_scale,seed,width,height,generation_time_s,device,dtype,task
+1,"a red rose in full bloom, macro photography, highly detailed","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,euler_a,20,10.4,256787,512,512,6.74,cuda,float16,Task1-Pipeline
+2,"a field of sunflowers at golden hour, photorealistic","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,lms,20,9.5,33326,512,512,3.93,cuda,float16,Task1-Pipeline
+3,"cyberpunk cityscape at night, neon lights, 4k","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,euler,50,9.6,588508,768,768,6.38,cuda,float16,Task1-Pipeline
+4,"portrait of an elderly woman, oil painting, detailed","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,euler,40,9.5,848749,512,512,16.1,cuda,float16,Task1-Pipeline
+5,"medieval castle on foggy hill, dramatic lighting, concept art","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,dpm_solver,30,7.7,225772,512,512,17.38,cuda,float16,Task1-Pipeline
+6,"a serene mountain lake at sunrise, photorealistic","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,euler_a,20,8.3,376417,512,512,15.79,cuda,float16,Task3-FineTune
+7,"abstract geometric art, vibrant colors, digital art","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,euler_a,40,9.2,967096,512,512,8.99,cuda,float16,Task3-FineTune
+8,"fresh sushi platter, food photography, professional lighting","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,lms,30,9.5,738797,512,512,4.51,cuda,float16,Task3-FineTune
+9,"a cute puppy in autumn leaves, kawaii illustration","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,ddim,20,11.1,908573,512,512,4.96,cuda,float16,Task3-FineTune
+10,"an oil painting of a stormy sea, masterpiece","blurry, low quality, bad anatomy, watermark",runwayml/stable-diffusion-v1-5,dpm_solver,30,7.0,372528,512,512,6.54,cuda,float16,Task3-FineTune
