@@ -1,0 +1,38 @@
+# Advanced Text-to-Image Generation Pipeline
+# Requirements — install with: pip install -r requirements.txt
+# Tested on: Google Colab T4 GPU, Python 3.10
+
+# ── PyTorch (CUDA 11.8) ─────────────────────────────────────────────────────
+# Install via: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# ── HuggingFace Stack ───────────────────────────────────────────────────────
+diffusers==0.21.0
+transformers==4.30.2
+accelerate==0.20.3
+safetensors==0.3.1
+datasets
+
+# ── Memory Efficiency ───────────────────────────────────────────────────────
+xformers==0.0.20
+
+# ── Image Processing ────────────────────────────────────────────────────────
+Pillow==9.5.0
+
+# ── Numerical / Scientific ──────────────────────────────────────────────────
+numpy==1.24.4
+scipy
+
+# ── Visualisation ───────────────────────────────────────────────────────────
+matplotlib==3.7.2
+seaborn
+
+# ── UI ──────────────────────────────────────────────────────────────────────
+gradio==4.0.0
+
+# ── NLP Utilities ───────────────────────────────────────────────────────────
+ftfy
+regex
+tqdm
